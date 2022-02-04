@@ -1,5 +1,5 @@
 ---
-title: "Calculus 1"
+title: "TA for Calculus 1"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2018-fall-teaching-2
