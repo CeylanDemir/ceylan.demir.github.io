@@ -8,5 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-I am Business Analyst at OBSS. I'm broadly interested in Machine Learning, Optimization for Machine Learning and Data Science, Ensemble Based Learning,Theory of Machine Learning and Deep Learning and Mathematics of Data Science.
+I am Business Analyst at OBSS. I received my M.Sc. degree at Istanbul Technical University department of Mathematical Engineering. I'm broadly interested in Machine Learning, Optimization for Machine Learning and Data Science, Ensemble Based Learning,Theory of Machine Learning and Deep Learning and Mathematics of Data Science.
 
