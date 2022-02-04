@@ -7,14 +7,3 @@ venue: "Bahcesehir University"
 date: 2018-09-09
 location: "Istanbul, Turkey"
 ---
-
-
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
