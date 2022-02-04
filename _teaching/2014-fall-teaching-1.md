@@ -7,13 +7,3 @@ venue: "Istanbul Technical University"
 date: 2014-11-11
 location: "Istanbul, Turkey"
 ---
-
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
